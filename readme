@@ -1,5 +1,7 @@
 this repository contains the implementation of different kinds of NLP Applications using the hugging face transformers.
 1. the first notebook is how to make a custom model using transformers
-2. the second notebook is building a question answering pipieline using Qu-An model of the "microsoft/MiniLM-L12-H384-uncased" language model
-3. the third notebook is text generation using GPT-2 model
-4. the fourth notebook is about text summarization
+2. the second notebook is implementation of Named Entity Recognition 
+3. the third notebook is building a question answering pipieline using Qu-An model of the "microsoft/MiniLM-L12-H384-uncased" language model
+4. the fourth notebook is performing Sentiment Analysis using the "DistilBERT base uncased finetuned SST-2" model
+5. the fifth notebook is text generation using GPT-2 model
+6. the sixth notebook is about text summarization
